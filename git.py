@@ -23,6 +23,12 @@
 # ponerles nombres a comandos y asi en vez de escribir el nombre completo del comando completo hacemos llamado
 # al nombre asignado en el alias. Para ello ejecutamos el comando: 
 
-# - git config --global alias.<el nombre que le querramos establecer> "Dentro de comillas el comando"
+# - git config --global alias.<el nombre que le querramos establecer> "Dentro de comillas el comando" 
+
+# Para comparar los cambios que se han realizado en base a los ultimos cambios de una rama usamos el comando 
+# git diff esto nos permite ver los cambios que se han realizado en el fichero en base a su utlima imagen  
+
+# Mediante git checkout <hash del commit o imagen a la querramos volver> nos permiter volver a un puntos de control especifico
+# Donde hay que tener precaucion ya que si no se han guardado los cambios actualmente puedes perder la informacion
 
 print("Hola git")
