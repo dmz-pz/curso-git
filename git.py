@@ -31,4 +31,6 @@
 # Mediante git checkout <hash del commit o imagen a la querramos volver> nos permiter volver a un puntos de control especifico
 # Donde hay que tener precaucion ya que si no se han guardado los cambios actualmente puedes perder la informacion
 
-print("Hola git")
+print("Hola git") 
+
+print("Este print se agrega para probar los tags")
