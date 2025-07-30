@@ -1,2 +1,3 @@
 # Nos permite obviar los ficheros que no queremos tener en cuenta  
-conceptos.txt 
+*.txt  
+*.pdf
